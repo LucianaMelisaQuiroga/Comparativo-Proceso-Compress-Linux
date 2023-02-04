@@ -1,0 +1,14 @@
+  ____                                          _     _                  
+ / ___|___  _ __ ___  _ __  _ __ ___  ___ ___  | |   (_)_ __  _   ___  __
+| |   / _ \| '_ ` _ \| '_ \| '__/ _ \/ __/ __| | |   | | '_ \| | | \ \/ /
+| |__| (_) | | | | | | |_) | | |  __/\__ \__ \ | |___| | | | | |_| |>  < 
+ \____\___/|_| |_| |_| .__/|_|  \___||___/___/ |_____|_|_| |_|\__,_/_/\_\
+                     |_|                                                 
+total 199M
+drwxr-xr-x 2 luciana luciana 4.0K Feb  3 23:39 Archivos-sin-comprimir
+-rw-r--r-- 1 luciana luciana  444 Feb  4 00:48 ComparativaCompress.txt
+-rw-r--r-- 1 luciana luciana  67M Feb  3 22:26 Compress.rar
+-rw-r--r-- 1 luciana luciana  67M Feb  3 22:16 Compress.tar.gz
+-rw-r--r-- 1 luciana luciana  67M Feb  3 22:20 Compress.zip
+-rw-r--r-- 1 luciana luciana  227 Feb  4 00:30 README.md
+-rw-r--r-- 1 luciana luciana  168 Feb  3 23:26 mi_linea_de_comandos.sh
